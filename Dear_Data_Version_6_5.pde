@@ -1,4 +1,4 @@
-Table soundTable;
+  Table soundTable;
 int displayLimit = 5;
 float fadeMode = 0.0;
 
